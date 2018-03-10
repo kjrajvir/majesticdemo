@@ -1,2 +1,2 @@
-This is redme file
+This is readme file
 Send line added
